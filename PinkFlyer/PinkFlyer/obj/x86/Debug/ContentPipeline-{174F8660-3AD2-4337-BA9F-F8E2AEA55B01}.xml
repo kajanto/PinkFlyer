@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>almond1.png</Source>
+      <Name>almond1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond1.xnb</Output>
+      <Time>2015-10-30T16:45:02.26379+02:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-10-30T16:45:02.26379+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pink_guy_vaaka.png</Source>
+      <Name>pink_guy_vaaka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\pink_guy_vaaka.xnb</Output>
+      <Time>2015-10-30T16:45:02.26379+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cromosomi.png</Source>
+      <Name>cromosomi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\cromosomi.xnb</Output>
+      <Time>2015-10-30T16:45:02.26379+02:00</Time>
+    </Item>
+    <Item>
+      <Source>almond2.png</Source>
+      <Name>almond2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond2.xnb</Output>
+      <Time>2015-11-05T21:47:12.6864308+02:00</Time>
+    </Item>
+    <Item>
+      <Source>almond3.png</Source>
+      <Name>almond3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond3.xnb</Output>
+      <Time>2015-11-05T21:47:12.6904311+02:00</Time>
+    </Item>
+    <Item>
+      <Source>steve.png</Source>
+      <Name>steve</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\steve.xnb</Output>
+      <Time>2015-11-05T22:00:20.3179266+02:00</Time>
+    </Item>
+    <Item>
+      <Source>33 Gibe de pusi b0ss.mp3</Source>
+      <Name>33 Gibe de pusi b0ss</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\33 Gibe de pusi b0ss.xnb</Output>
+      <Extra>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\33 Gibe de pusi b0ss.wma</Extra>
+      <Time>2015-11-05T23:24:54.277629+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{174F8660-3AD2-4337-BA9F-F8E2AEA55B01}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyerContent\</RootDirectory>
+      <LoggerRootDirectory>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\</LoggerRootDirectory>
+      <IntermediateDirectory>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\TextFileContentExtension.dll</Key>
+        <Value>2015-10-29T23:10:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\AnimationExtension.dll</Key>
+        <Value>2015-10-29T23:10:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-08T22:26:45.3824125+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

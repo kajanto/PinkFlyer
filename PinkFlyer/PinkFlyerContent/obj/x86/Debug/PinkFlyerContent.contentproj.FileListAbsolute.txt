@@ -1,0 +1,3 @@
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyerContent\obj\x86\Debug\PinkFlyerContent.contentprojResolveAssemblyReference.cache
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyerContent\obj\x86\Debug\PinkFlyerContent.contentprojResolveAssemblyReference.cache
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyerContent\obj\x86\Debug\PinkFlyerContent.contentprojResolveAssemblyReference.cache

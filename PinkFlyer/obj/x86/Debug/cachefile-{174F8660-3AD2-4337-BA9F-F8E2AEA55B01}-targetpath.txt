@@ -1,0 +1,4 @@
+Content\almond1.xnb
+Content\background.xnb
+Content\pink_guy_vaaka.xnb
+Content\cromosomi.xnb

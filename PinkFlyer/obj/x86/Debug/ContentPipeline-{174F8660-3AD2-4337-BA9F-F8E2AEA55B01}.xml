@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>almond1.png</Source>
+      <Name>almond1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond1.xnb</Output>
+      <Time>2015-10-26T22:43:49.8897519+02:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-10-26T22:43:49.9522224+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pink_guy_vaaka.png</Source>
+      <Name>pink_guy_vaaka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\pink_guy_vaaka.xnb</Output>
+      <Time>2015-10-26T23:09:17.9772411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cromosomi.png</Source>
+      <Name>cromosomi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\cromosomi.xnb</Output>
+      <Time>2015-10-27T22:39:44.2291887+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{174F8660-3AD2-4337-BA9F-F8E2AEA55B01}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\TextFileContentExtension.dll</Key>
+        <Value>2015-02-09T20:18:44+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Jypeli\lib\ContentExtensions\AnimationExtension.dll</Key>
+        <Value>2015-02-17T22:27:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-08T23:35:41.0549649+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

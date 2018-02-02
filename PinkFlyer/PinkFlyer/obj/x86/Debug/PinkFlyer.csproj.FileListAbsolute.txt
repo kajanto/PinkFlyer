@@ -1,0 +1,46 @@
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.csprojResolveAssemblyReference.cache
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond1.xnb
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\background.xnb
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\PinkFlyer.exe
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\PinkFlyer.pdb
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Jypeli.dll
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Jypeli.xml
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.exe
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.pdb
+c:\users\tomin_000\documents\visual studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\pink_guy_vaaka.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\cromosomi.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond1.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\background.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\pink_guy_vaaka.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\cromosomi.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\PinkFlyer.exe
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\PinkFlyer.pdb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Jypeli.dll
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Jypeli.xml
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.csprojResolveAssemblyReference.cache
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.exe
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.pdb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond2.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond3.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\steve.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\33 Gibe de pusi b0ss.xnb
+B:\kurssit\ohj1\ht\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\33 Gibe de pusi b0ss.wma
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond1.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\background.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\pink_guy_vaaka.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\cromosomi.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond2.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\almond3.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\steve.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\33 Gibe de pusi b0ss.xnb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Content\33 Gibe de pusi b0ss.wma
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\PinkFlyer.exe
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\PinkFlyer.pdb
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Jypeli.dll
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\bin\x86\Debug\Jypeli.xml
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.csprojResolveAssemblyReference.cache
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.exe
+C:\Users\tomin_000\Documents\Visual Studio 2015\Projects\HarjoitusTyo\PinkFlyer\PinkFlyer\PinkFlyer\obj\x86\Debug\PinkFlyer.pdb
